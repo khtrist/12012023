@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+D:\Visual Studi Code Academy Lessons or\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+D:\Visual Studi Code Academy Lessons or\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+D:\Visual Studi Code Academy Lessons or\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+D:\Visual Studi Code Academy Lessons or\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache
